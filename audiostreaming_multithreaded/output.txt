@@ -1,0 +1,43 @@
+--- Audio Streaming Quality Metrics ---
+0 dropped packet(s)
+1 missing block(s)
+Initial delay of 1.105 seconds
+0 break(s) in audio output
+0.000 seconds of total break(s) in audio output
+
+--- Audio Streaming Quality Metrics ---
+0 dropped packet(s)
+14 missing block(s)
+Initial delay of 1.105 seconds
+0 break(s) in audio output
+0.000 seconds of total break(s) in audio output
+
+--- Audio Streaming Quality Metrics ---
+0 dropped packet(s)
+12 missing block(s)
+Initial delay of 1.044 seconds
+0 break(s) in audio output
+0.000 seconds of total break(s) in audio output
+
+--- Audio Streaming Quality Metrics ---
+0 dropped packet(s)
+4 missing block(s)
+Initial delay of 0.904 seconds
+0 break(s) in audio output
+0.000 seconds of total break(s) in audio output
+
+--- Audio Streaming Quality Metrics ---
+0 dropped packet(s)
+10 missing block(s)
+Initial delay of 1.204 seconds
+0 break(s) in audio output
+0.000 seconds of total break(s) in audio output
+
+--- Audio Streaming Quality Metrics ---
+0 dropped packet(s)
+12 missing block(s)
+Initial delay of 1.005 seconds
+0 break(s) in audio output
+0.000 seconds of total break(s) in audio output
+
+
