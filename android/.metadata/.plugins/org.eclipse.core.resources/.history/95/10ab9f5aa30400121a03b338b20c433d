@@ -1,0 +1,24 @@
+<resources>
+
+    <string name="app_name">Play Finder</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">send</string>
+    <string name="title_activity_display_message">My Message</string>
+    <string name="Email">Email</string>
+    <string name="textEmailAddress">user@domain</string>
+    <string name="Password">Password</string>
+    <string name="Register">Register</string>
+    <string name="Submit">Submit</string>
+    <string name="Passwordsymbol">........</string>
+    <string name="Name">Name</string>
+    <string name="Age">Age : dd/mm/yyyy</string>
+    <string name="Phone">(555) 1000</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="Save">Save</string>
+    <string name="title_activity_login">Play Finder</string>
+
+</resources>

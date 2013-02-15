@@ -1,0 +1,23 @@
+package com.example.myfirstapp;
+
+import android.app.Activity;
+import android.os.Bundle;
+import android.widget.CheckBox;
+
+public class GamesActivity extends Activity {
+
+	private CheckBox chkBd1, chkBd2, ChkBd3, ChkBd4;
+    @Override
+    public void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_games);
+
+    	addListenerOnChkIos();
+    }
+
+	private void addListenerOnChkIos() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

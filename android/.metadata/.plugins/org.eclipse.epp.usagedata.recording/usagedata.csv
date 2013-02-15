@@ -1,0 +1,68 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.wst.common.project.facet.core,1.4.201.v201201101553,"org.eclipse.wst.common.project.facet.core",1348382860088
+started,bundle,org.eclipse.wst.common.uriresolver,1.1.401.v201004280700,"org.eclipse.wst.common.uriresolver",1348382860133
+started,bundle,org.eclipse.wst.dtd.ui,1.0.600.v201103171359,"org.eclipse.wst.dtd.ui",1348382860197
+started,bundle,org.eclipse.wst.sse.core,1.1.602.v201112071516,"org.eclipse.wst.sse.core",1348382860198
+started,bundle,org.eclipse.wst.sse.ui,1.3.2.v201201041522,"org.eclipse.wst.sse.ui",1348382860383
+started,bundle,org.eclipse.wst.validation,1.2.303.v201202090300,"org.eclipse.wst.validation",1348382860383
+started,bundle,org.eclipse.wst.xml.core,1.1.602.v201201091944,"org.eclipse.wst.xml.core",1348382860586
+started,bundle,org.eclipse.wst.xml.ui,1.1.202.v201112071516,"org.eclipse.wst.xml.ui",1348382860595
+started,bundle,com.android.ide.eclipse.adt,20.0.3.v201208082019-427395,"com.android.ide.eclipse.adt",1348382860595
+started,bundle,com.android.ide.eclipse.base,20.0.3.v201208082019-427395,"com.android.ide.eclipse.base",1348382860595
+os,sysinfo,,,"macosx",1348382860598
+arch,sysinfo,,,"x86_64",1348382860598
+ws,sysinfo,,,"cocoa",1348382860599
+locale,sysinfo,,,"en_US",1348382860599
+processors,sysinfo,,,"4",1348382860599
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1348382860599
+java.runtime.version,sysinfo,,,"1.6.0_35-b10-428-11M3811",1348382860599
+java.specification.name,sysinfo,,,"Java Platform API Specification",1348382860599
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1348382860599
+java.specification.version,sysinfo,,,"1.6",1348382860599
+java.vendor,sysinfo,,,"Apple Inc.",1348382860599
+java.version,sysinfo,,,"1.6.0_35",1348382860599
+java.vm.info,sysinfo,,,"mixed mode",1348382860599
+java.vm.name,sysinfo,,,"Java HotSpot(TM) 64-Bit Server VM",1348382860599
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1348382860599
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1348382860599
+java.vm.specification.version,sysinfo,,,"1.0",1348382860599
+java.vm.vendor,sysinfo,,,"Apple Inc.",1348382860599
+java.vm.version,sysinfo,,,"20.10-b01-428",1348382860599
+started,bundle,org.eclipse.m2e.usagedata,1.0.200.20111228-1245,"org.eclipse.m2e.usagedata",1348382860612
+opened,view,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.views.ProblemView",1348382860932
+started,bundle,org.eclipse.update.scheduler,3.2.300.v20100512,"org.eclipse.update.scheduler",1348382861216
+started,bundle,org.eclipse.team.cvs.core,3.3.400.I20110510-0800,"org.eclipse.team.cvs.core",1348382861719
+started,bundle,org.eclipse.update.configurator,3.3.100.v20100512,"org.eclipse.update.configurator",1348382861757
+started,bundle,org.eclipse.update.core,3.2.500.v20110330,"org.eclipse.update.core",1348382861836
+started,bundle,org.eclipse.wb.discovery.core,1.3.0.r37x201202052340,"org.eclipse.wb.discovery.core",1348382861920
+started,bundle,org.eclipse.team.cvs.ui,3.3.401.v20120126-1227,"org.eclipse.team.cvs.ui",1348382862104
+started,bundle,org.eclipse.wb.discovery.ui,1.3.0.r37x201202052340,"org.eclipse.wb.discovery.ui",1348382863440
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1348382933736
+activated,editor,com.android.ide.eclipse.adt,20.0.3.v201208082019-427395,"com.android.ide.eclipse.editors.CommonXmlEditor",1348382933743
+started,bundle,org.eclipse.jdt.junit.core,3.7.0.v20110928-1453,"org.eclipse.jdt.junit.core",1348382934832
+started,bundle,org.eclipse.jdt.junit,3.7.0.v20110928-1453,"org.eclipse.jdt.junit",1348382934840
+started,bundle,org.eclipse.jdt.debug,3.7.1.v20111006_r372,"org.eclipse.jdt.debug",1348382934910
+started,bundle,org.eclipse.jdt.debug.ui,3.6.1.v20111006_r372,"org.eclipse.jdt.debug.ui",1348382934967
+started,bundle,com.android.ide.eclipse.ddms,20.0.3.v201208082019-427395,"com.android.ide.eclipse.ddms",1348382936328
+started,bundle,com.android.ide.eclipse.traceview,20.0.3.v201208082019-427395,"com.android.ide.eclipse.traceview",1348382936557
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1348382936707
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1348382936763
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1348382936996
+started,bundle,org.eclipse.jdt.apt.core,3.3.500.v20110420-1015,"org.eclipse.jdt.apt.core",1348382937524
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1348383053824
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1348383056508
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1348383105323
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1348383108123
+opened,view,com.android.ide.eclipse.ddms,20.0.3.v201208082019-427395,"com.android.ide.eclipse.ddms.views.LogCatView",1348383129774
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1348383591697
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1348383598120
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1348383602999
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1348387372850
+activated,editor,com.android.ide.eclipse.adt,20.0.3.v201208082019-427395,"com.android.ide.eclipse.editors.CommonXmlEditor",1348387373031
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1348387377032
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1348387378821
+closed,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1348387379148
+started,bundle,org.eclipse.compare,3.5.202.R37x_v20111109-0800,"org.eclipse.compare",1348387379972
+stopped,bundle,org.eclipse.m2e.logback.configuration,1.0.200.20111228-1245,"org.eclipse.m2e.logback.configuration",1348387380685
+stopped,bundle,org.eclipse.m2e.discovery,1.0.200.20111228-1245,"org.eclipse.m2e.discovery",1348387380702
+stopped,bundle,org.eclipse.m2e.refactoring,1.0.200.20111228-1245,"org.eclipse.m2e.refactoring",1348387380763

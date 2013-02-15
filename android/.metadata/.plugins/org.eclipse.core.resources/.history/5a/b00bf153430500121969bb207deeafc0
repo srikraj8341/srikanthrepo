@@ -1,0 +1,76 @@
+package com.example.myfirstapp;
+
+public class Contact {
+
+	//private variables
+    int id;
+    String name;
+    int age;
+    String phone_number;
+    String location;
+	
+    public Contact() {
+
+    }
+
+	public Contact(int id, String name, int age, String phone_number,
+			String location) {
+		super();
+		this.id = id;
+		this.name = name;
+		this.age = age;
+		this.phone_number = phone_number;
+		this.location = location;
+	}
+
+	public Contacts(String name, String phone_number) {
+		super();
+		this.name = name;
+		this.phone_number = phone_number;
+	}
+
+	public int getId() {
+		return id;
+	}
+
+	public void setId(int id) {
+		this.id = id;
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public int getAge() {
+		return age;
+	}
+
+	public void setAge(int age) {
+		this.age = age;
+	}
+
+	public String getPhone_number() {
+		return phone_number;
+	}
+
+	public void setPhone_number(String phone_number) {
+		this.phone_number = phone_number;
+	}
+
+	public String getLocation() {
+		return location;
+	}
+
+	public void setLocation(String location) {
+		this.location = location;
+	}
+    
+    
+    
+    
+    
+}

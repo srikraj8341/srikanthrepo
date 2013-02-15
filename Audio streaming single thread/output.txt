@@ -1,0 +1,41 @@
+output results of  ca3.c
+
+--- Audio Streaming Quality Metrics ---
+0 dropped packet(s)
+3 missing block(s)
+Initial delay of 1.825 seconds
+0 break(s) in audio output
+0.000 seconds of total break(s) in audio output
+
+--- Audio Streaming Quality Metrics ---
+0 dropped packet(s)
+0 missing block(s)
+Initial delay of 1.805 seconds
+0 break(s) in audio output
+0.000 seconds of total break(s) in audio output
+
+--- Audio Streaming Quality Metrics ---
+0 dropped packet(s)
+0 missing block(s)
+Initial delay of 1.685 seconds
+0 break(s) in audio output
+0.000 seconds of total break(s) in audio output
+
+--- Audio Streaming Quality Metrics ---
+0 dropped packet(s)
+0 missing block(s)
+Initial delay of 1.685 seconds
+0 break(s) in audio output
+0.000 seconds of total break(s) in audio output
+
+--- Audio Streaming Quality Metrics ---
+0 dropped packet(s)
+0 missing block(s)
+Initial delay of 1.685 seconds
+0 break(s) in audio output
+0.000 seconds of total break(s) in audio output
+
+
+
+
+

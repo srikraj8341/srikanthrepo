@@ -1,0 +1,32 @@
+package com.example.myfirstapp;
+
+import android.annotation.SuppressLint;
+import android.app.TabActivity;
+import android.content.Intent;
+import android.os.Bundle;
+
+@SuppressWarnings("deprecation")
+@SuppressLint({ "NewApi", "NewApi" })
+public class LoginActivity implements TabActivity {
+
+    @Override
+    public void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_login);
+        getActionBar().setDisplayHomeAsUpEnabled(true);
+        
+        // Profile Activity
+		Intent intentProfile = new Intent().setClass(this, ProfileActivity.class);
+		startActivity(intentProfile);
+		
+		// Initiate Activity 
+		Intent intentInitiate = new Intent().setClass(this, InitiateActivity.class);
+		startActivity(intentInitiate);
+		
+		// Games Activity
+		Intent intentGames = new Intent().setClass(this, GamesActivity.class);
+		startActivity(intentGames);
+
+    }
+
+}

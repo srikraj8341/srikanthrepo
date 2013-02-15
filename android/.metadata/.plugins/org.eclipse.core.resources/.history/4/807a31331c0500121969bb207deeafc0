@@ -1,0 +1,23 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <SearchView
+        android:id="@+id/searchView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="78dp" >
+    </SearchView>
+
+    <TabWidget
+        android:id="@android:id/tabs"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/searchView1"
+        android:layout_marginTop="41dp"
+        android:layout_toRightOf="@+id/searchView1" >
+    </TabWidget>
+
+</RelativeLayout>

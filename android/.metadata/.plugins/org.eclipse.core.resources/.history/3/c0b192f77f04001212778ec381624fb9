@@ -1,0 +1,43 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+     android:layout_width="fill_parent"
+     android:layout_height="fill_parent"
+     android:paddingLeft="16dp"
+     android:paddingRight="16dp">
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="96dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="35dp"
+        android:text="@string/User_name" />
+   
+
+    <EditText
+        android:id="@+id/editText1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/textView3"
+        android:layout_alignLeft="@+id/textView3"
+        android:layout_marginLeft="88dp"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        android:text="@string/textEmailAddress" >
+
+        <requestFocus />
+    </EditText>
+
+    <EditText
+        android:id="@+id/editText3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/editText1"
+        android:layout_below="@+id/textView3"
+        android:layout_marginTop="25dp"
+        android:ems="10"
+        android:inputType="textPassword" />
+
+</RelativeLayout>
+
+

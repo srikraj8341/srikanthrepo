@@ -1,0 +1,68 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <SearchView
+        android:id="@+id/searchView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="78dp" >
+    </SearchView>
+
+    <TabWidget
+        android:id="@android:id/tabs"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/searchView1"
+        android:layout_marginTop="41dp"
+        android:layout_toRightOf="@+id/searchView1" >
+    </TabWidget>
+
+    <CheckBox
+        android:id="@+id/checkBox1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/searchView1"
+        android:text="@string/Badminton1"
+        android:onClick="onCheckboxClicked" />
+
+    <CheckBox
+        android:id="@+id/checkBox2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@android:id/tabs"
+        android:text="@string/Badminton2" 
+        android:onClick="onCheckboxClicked"/>
+
+    <CheckBox
+        android:id="@+id/checkBox3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/checkBox2"
+        android:layout_marginTop="21dp"
+        android:text="@string/Badminton3"
+        android:onClick="onCheckboxClicked" />
+
+    <CheckBox
+        android:id="@+id/checkBox4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/checkBox3"
+        android:layout_below="@+id/checkBox3"
+        android:text="@string/Badminton4"
+        android:onClick="onCheckboxClicked" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/checkBox4"
+        android:layout_below="@+id/checkBox4"
+        android:layout_marginRight="34dp"
+        android:layout_marginTop="17dp"
+        android:text="@string/SubmitGame" />
+
+</RelativeLayout>

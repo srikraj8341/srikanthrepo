@@ -1,0 +1,11 @@
+package com.example.myfirstapp;
+
+public class Contacts {
+
+	//private variables
+    int id;
+    String name;
+    int age;
+    String phone_number;
+    String location;
+}
